@@ -11,7 +11,7 @@
     name: 'app',
     methods: {
       btnClick() {
-        alert('click');
+        alert('clicksss');
       }
     }
   };
